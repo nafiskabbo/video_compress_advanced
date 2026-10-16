@@ -1,3 +1,10 @@
+## 4.0.0
+
+- **Package renamed** from `video_compress` to [`video_compress_advanced`](https://pub.dev/packages/video_compress_advanced) for independent publication on pub.dev
+- **Fork lineage:** community-maintained continuation of [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress)
+- **Maintainer:** [Nafis Kabbo](mailto:nafiskabbo30@gmail.com)
+- Adds iOS Swift Package Manager (SPM) support alongside CocoaPods
+
 ## 3.1.5
 - Bump up transcoder to 0.11.2
 - Enhancement: support pass-through audio with more than 2 channels
