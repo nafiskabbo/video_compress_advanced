@@ -22,9 +22,6 @@ let package = Package(
             resources: [
                 // Uncomment if PrivacyInfo.xcprivacy exists:
                 // .process("PrivacyInfo.xcprivacy"),
-            ],
-            cSettings: [
-                .headerSearchPath("include/video_compress_advanced")
             ]
         )
     ]

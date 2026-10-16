@@ -14,7 +14,6 @@ A new flutter plugin project.
   s.author           = { 'Nafis Kabbo' => 'nafiskabbo30@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'video_compress_advanced/Sources/video_compress_advanced/**/*'
-  s.public_header_files = 'video_compress_advanced/Sources/video_compress_advanced/include/**/*.h'
   s.dependency 'Flutter'
   s.platform = :ios, '13.0'
 
