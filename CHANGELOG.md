@@ -1,3 +1,7 @@
+## 4.0.2
+
+- Fix analyzer infos: rename the `MediaMetadataRetriever` type parameter and drop an unused `dart:typed_data` import
+
 ## 4.0.1
 
 - Upgrade package dependencies
