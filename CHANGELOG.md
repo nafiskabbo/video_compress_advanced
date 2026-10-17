@@ -1,3 +1,7 @@
+## 4.0.1
+
+- Upgrade package dependencies
+
 ## 4.0.0
 
 - **Package renamed** from `video_compress` to [`video_compress_advanced`](https://pub.dev/packages/video_compress_advanced) for independent publication on pub.dev

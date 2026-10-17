@@ -33,7 +33,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  video_compress_advanced: ^4.0.0
+  video_compress_advanced: ^4.0.1
 ```
 
 ### Migrating from `video_compress`
